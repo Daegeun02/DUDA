@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDUDA.a  CMakeFiles/DUDA.dir/src/drray.cpp.o CMakeFiles/DUDA.dir/src/duda.cu.o CMakeFiles/DUDA.dir/src/kernel.cu.o
+/usr/bin/ranlib libDUDA.a

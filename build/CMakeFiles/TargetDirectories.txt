@@ -1,0 +1,6 @@
+/home/jarvis/Documents/DUDA/build/CMakeFiles/rebuild_cache.dir
+/home/jarvis/Documents/DUDA/build/CMakeFiles/edit_cache.dir
+/home/jarvis/Documents/DUDA/build/CMakeFiles/run.dir
+/home/jarvis/Documents/DUDA/build/DUDA/CMakeFiles/rebuild_cache.dir
+/home/jarvis/Documents/DUDA/build/DUDA/CMakeFiles/edit_cache.dir
+/home/jarvis/Documents/DUDA/build/DUDA/CMakeFiles/DUDA.dir

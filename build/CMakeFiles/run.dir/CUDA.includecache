@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jarvis/Documents/DUDA/DUDA/inc/duda.h
+iostream
+-
+cuda_runtime.h
+/home/jarvis/Documents/DUDA/DUDA/inc/cuda_runtime.h
+device_launch_parameters.h
+/home/jarvis/Documents/DUDA/DUDA/inc/device_launch_parameters.h
+
+/home/jarvis/Documents/DUDA/DUDA/inc/kernel.h
+iostream
+-
+cuda_runtime.h
+/home/jarvis/Documents/DUDA/DUDA/inc/cuda_runtime.h
+device_launch_parameters.h
+/home/jarvis/Documents/DUDA/DUDA/inc/device_launch_parameters.h
+
+/home/jarvis/Documents/DUDA/main.cu
+iostream
+-
+./DUDA/inc/duda.h
+/home/jarvis/Documents/DUDA/DUDA/inc/duda.h
+./DUDA/inc/kernel.h
+/home/jarvis/Documents/DUDA/DUDA/inc/kernel.h
+
